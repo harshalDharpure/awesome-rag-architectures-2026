@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-username/awesome-rag-architectures-2025/stargazers"><img src="https://img.shields.io/github/stars/your-username/awesome-rag-architectures-2025?style=for-the-badge&logo=github&color=yellow" alt="Stars"></a>
-  <a href="https://github.com/your-username/awesome-rag-architectures-2025/network/members"><img src="https://img.shields.io/github/forks/your-username/awesome-rag-architectures-2025?style=for-the-badge&logo=github&color=blue" alt="Forks"></a>
-  <a href="https://github.com/your-username/awesome-rag-architectures-2025/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="License"></a>
+  <a href="https://github.com/harshalDharpure/awesome-rag-architectures-2026/stargazers"><img src="https://img.shields.io/github/stars/harshalDharpure/awesome-rag-architectures-2026?style=for-the-badge&logo=github&color=yellow" alt="Stars"></a>
+  <a href="https://github.com/harshalDharpure/awesome-rag-architectures-2026/network/members"><img src="https://img.shields.io/github/forks/harshalDharpure/awesome-rag-architectures-2026?style=for-the-badge&logo=github&color=blue" alt="Forks"></a>
+  <a href="https://github.com/harshalDharpure/awesome-rag-architectures-2026/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="License"></a>
   <a href="https://python.org"><img src="https://img.shields.io/badge/python-3.10+-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
 </p>
 
@@ -303,7 +303,7 @@ graph TB
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/awesome-rag-architectures-2025.git
+git clone https://github.com/harshalDharpure/awesome-rag-architectures-2026.git
 cd awesome-rag-architectures-2025
 
 # Create virtual environment
@@ -480,7 +480,7 @@ Special thanks to:
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=your-username/awesome-rag-architectures-2025&type=Date)](https://star-history.com/#your-username/awesome-rag-architectures-2025&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=harshalDharpure/awesome-rag-architectures-2026&type=Date)](https://star-history.com/#harshalDharpure/awesome-rag-architectures-2026&Date)
 
 ---
 
@@ -489,10 +489,10 @@ Special thanks to:
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/intent/tweet?text=Check%20out%20Awesome%20RAG%20Architectures%202025%20-%20The%20ultimate%20guide%20to%20modern%20RAG%20systems!&url=https://github.com/your-username/awesome-rag-architectures-2025">
+  <a href="https://twitter.com/intent/tweet?text=Check%20out%20Awesome%20RAG%20Architectures%202025%20-%20The%20ultimate%20guide%20to%20modern%20RAG%20systems!&url=https://github.com/harshalDharpure/awesome-rag-architectures-2026">
     <img src="https://img.shields.io/badge/Share%20on-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Share on Twitter">
   </a>
-  <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/your-username/awesome-rag-architectures-2025">
+  <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/harshalDharpure/awesome-rag-architectures-2026">
     <img src="https://img.shields.io/badge/Share%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Share on LinkedIn">
   </a>
 </p>
