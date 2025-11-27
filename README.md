@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="banner/banner.png" alt="Awesome RAG Architectures 2025" width="100%">
-</p>
 
 <h1 align="center">🚀 Awesome RAG Architectures 2025</h1>
 
